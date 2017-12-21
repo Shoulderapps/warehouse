@@ -26,8 +26,12 @@
           <option name="url" value="https://github.com/Shoulderapps/AICamera.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Shoulderapps/tensorflow.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\DeepLearning\Caffe2" />
+    <option name="cloneParentDir" value="C:\DeepLearning\TensorFlow" />
   </component>
 </application>
