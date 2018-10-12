@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="pb" type="PLAIN_TEXT" />
       <mapping ext="aiml" type="PLAIN_TEXT" />
+      <mapping ext="bks" type="PLAIN_TEXT" />
       <mapping ext="tflite" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
